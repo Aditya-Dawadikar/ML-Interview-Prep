@@ -9,3 +9,7 @@ This repository will be expanded with various machine learning interview concept
 ---
 
 Stay tuned for more topics and detailed notes!
+
+---
+
+This repo is highly motivated from this repo: https://github.com/alirezadir/Machine-Learning-Interviews/tree/main
